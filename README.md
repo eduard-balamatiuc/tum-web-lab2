@@ -86,3 +86,17 @@ The website features:
 
 - Images: [Unsplash](https://unsplash.com)
 - Fonts: [Google Fonts](https://fonts.google.com)
+
+## Responsive Design Features
+- Mobile-optimized layout with adjusted element sizes
+- Mobile-specific Quick Access Menu section
+- Enhanced visibility of Call-to-Action buttons on mobile devices
+- Responsive breakpoint at 768px for optimal mobile viewing
+
+## Interactive Mascot
+The site features "Blossom", our friendly flower fairy mascot that adds personality to the user experience:
+
+### Mobile-Specific Elements
+- Quick Access Menu (visible only on mobile devices)
+- Enhanced touch-friendly button sizes
+- Optimized spacing for mobile viewing
