@@ -96,6 +96,20 @@ The website features:
 ## Interactive Mascot
 The site features "Blossom", our friendly flower fairy mascot that adds personality to the user experience:
 
+### Mascot Features
+- Located in the bottom-right corner
+- Appears with a fade-in animation after 2 seconds
+- Animated with multiple effects:
+  - Gentle floating motion
+  - Subtle tilting
+  - Soft rotation
+- Displays a welcome message on hover
+- Animations pause on hover for better readability
+
+### Mascot Assets
+- `assets/mascot.svg` - Vector graphic of Blossom the flower fairy
+- Recommended mascot dimensions: 120x120px
+
 ### Mobile-Specific Elements
 - Quick Access Menu (visible only on mobile devices)
 - Enhanced touch-friendly button sizes
