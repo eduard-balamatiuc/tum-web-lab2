@@ -44,6 +44,15 @@ The website features:
 ### Contact Form
 ![Contact Section](screenshots/contact-section.png)
 
+### Mobile Layout
+![Mobile Layout](screenshots/mobile-layout.png)
+
+### Mascot
+![Mascot](screenshots/mascot.png)
+
+### Mobile Only Section
+![Mobile Only Section](screenshots/mobile-only-section.png)
+
 ## Technologies Used
 
 - **HTML5** - Semantic markup structure
