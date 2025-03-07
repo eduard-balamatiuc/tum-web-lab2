@@ -121,7 +121,7 @@
         }
     </style>
   </head>
-  <body>
+  <body class="bg-gray-50">
     <!-- Navigation -->
     <header>
       <nav>
@@ -138,12 +138,21 @@
       </nav>
     </header>
 
-    <!-- Hero Section with Call to Action -->
-    <section id="home" class="hero">
-      <div class="hero-content">
-        <h1>Beautiful Blooms for Every Occasion</h1>
-        <p>Handcrafted floral arrangements that bring nature's beauty into your life</p>
-        <button class="cta-button">Shop Now</button>
+    <!-- Hero Section with Tailwind -->
+    <section class="bg-gradient-to-r from-green-100 to-green-200 py-20">
+        <div class="container mx-auto px-6">
+            <div class="flex flex-col md:flex-row items-center justify-between">
+                <div class="md:w-1/2 mb-8 md:mb-0">
+                    <h1 class="text-4xl md:text-6xl font-bold mb-4 font-serif text-green-800">Beautiful Blooms for Every Occasion</h1>
+                    <p class="text-xl mb-8 text-green-700">Handcrafted floral arrangements that bring nature's beauty into your life</p>
+                    <button class="bg-green-600 text-white px-8 py-3 rounded-lg hover:bg-green-700 transition duration-300">
+                        Shop Now
+                    </button>
+                </div>
+                <div class="md:w-1/2">
+                    <img src="https://images.unsplash.com/photo-1617111490936-07b47eafdcd4?q=80&w=2694&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Beautiful flower arrangement" class="w-full max-w-md mx-auto rounded-lg shadow-lg">
+                </div>
+            </div>
       </div>
     </section>
 
